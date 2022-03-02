@@ -1,5 +1,6 @@
 <h1 align="center">
     <img alt="move.it" title="move.it" src="public/logo.png" />
+    Challenger 2 to bootcamp Ignite 
 </h1>
 
 <p align="center">
@@ -21,7 +22,7 @@
 </p>
 
 <h4 align="center"> 
-	 Status: In progress
+	 Status: Complete
 </h4>
 
 <p align="center">
