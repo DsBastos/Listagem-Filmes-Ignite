@@ -8,11 +8,11 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/dsbastos/Listagem-Filmes-Ignite">
 
   <a href="https://github.com/dsbastos/nlw4-moveit-nextjs/">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dsbastos/nlw4-moveit-nextjs">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dsbastos/Listagem-Filmes-Ignite">
   </a>
 
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/dsbastos/nlw4-moveit-nextjs/stargazers">
+   <a href="https://github.com/dsbastos/Listagem-Filmes-Ignite/stargazers">
   </a>
 
   <a href="https://www.linkedin.com/in/daniel-bastos98/">
@@ -39,15 +39,13 @@
 
 ## 💻 About
 
-Move.it is a React application that controls computer usage cycles. These cycles are 25 minutes based on the Pomodoro technique.
-There are people who spend 8, 10, 12 and even 16 hours in front of the computer without stopping, forget to stretch the joints of their arms and wrists or "rest" their eyes. This project aims to prevent these problems that many developers acquire.
 
 ---
 
 ## 🎨 Layout
 
 <pd>
-  you can view the original project layout through <a href="https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0?node-id=160%3A2761" alt="this link"> this link</a>. <a href="https://figma.com/" alt="this link">Figma</a> account is required to access it.
+  
 </p>
 
 ---
@@ -60,7 +58,6 @@ The following tools were used in the construction of the project:
 - **[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)**
 - **[Typescript](https://www.typescriptlang.org/)**
 - **[Reactjs](https://reactjs.org/)**
-- **[Next.js](https://nextjs.org/)**
 
 ---
 
@@ -69,9 +66,9 @@ The following tools were used in the construction of the project:
 First, run the development server:
 
 ```bash
-npm run dev
-# or
+yarn
 yarn dev
+yarn server
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the App.
