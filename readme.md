@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="move.it" title="move.it" src="public/logo.png" />
-    Challenger 2 to bootcamp Ignite 
+    <p>Challenger 2 to bootcamp Ignite</p>
 </h1>
 
 <p align="center">
@@ -39,7 +39,6 @@
 </h1>
 
 ## 💻 About
-
 
 ---
 
