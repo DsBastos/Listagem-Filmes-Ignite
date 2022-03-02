@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="move.it" title="move.it" src="public/logo.png" />
-    <p>Challenger 2 to bootcamp Ignite</p>
+    <p>Challenger 2 from bootcamp Ignite</p>
 </h1>
 
 <p align="center">
